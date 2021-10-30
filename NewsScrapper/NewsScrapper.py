@@ -38,5 +38,4 @@ csv_writer.writerow(news)
 csv_writer.writerow(image)
 csv_writer.writerow(link)
 csv_writer.writerow(shotnews)
-
 print(x)
